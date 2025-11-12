@@ -3,9 +3,13 @@
 ## Group Members
 
 Colin Meersman - cmm08294@uga.edu 
+
 Divya Kadiyala - 
+
 Aaron Silverman - 
+
 Laiba Syed -  
+
 Sanjot Bodake -  
 
 ## Objective
