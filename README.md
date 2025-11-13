@@ -17,7 +17,20 @@ Identify a data set and based on the data set and phenomenon ask 2 questions tha
 
 ## Question 1
 
-How have car crashes changed year over year in the different Bouroughs?
+How have car crashes changed year over year in the different Boroughs?
+
+Why is this important?
+
+1. Identifies Local Trends and Problem Areas
+Each borough has unique traffic patterns, infrastructure, and population density. Analyzing year-over-year changes helps pinpoint where crashes are increasing or decreasing, showing which areas may need more safety interventions or policy attention.
+
+2. Measures the Effectiveness of Safety Initiatives
+New York has implemented several traffic safety programs. Tracking changes by borough allows policymakers to evaluate whether these efforts are working in specific areas — for example, if crashes declined more in Manhattan than in Queens, it might suggest that certain local policies are more effective.
+
+3. Reveals Impacts of Major Events or Conditions
+Year-over-year data captures how external events — such as state-wide lockdowns, weather patterns, or infrastructure changes — affect crash rates.
+
+
 
 <img width="1680" height="1059" alt="image" src="https://github.com/user-attachments/assets/84fa4361-5e98-4fb9-a6e3-814f190df469" />
 
@@ -39,6 +52,27 @@ After 2020, every borough saw a noticeable reduction in crash volume, with the s
 
 What is the leading cause of car crashes in New York?
 
+This is an important question for multiple reasons
+
+1. Improves Road Safety Policies
+Knowing what causes most crashes helps city planners and law enforcement design targeted safety measures.
+
+2. Guides Infrastructure and Urban Design
+Understanding crash causes helps transportation departments prioritize road improvements.
+
+3. Helps Allocate Resources Effectively
+Police, traffic engineers, and city agencies can focus their efforts where they’ll have the biggest impact.
+
+4. Informs Public Awareness and Education
+When the city knows which behaviors cause the most crashes, it can educate drivers more effectively.
+
+5. Reduces Economic and Social Costs
+Crashes have huge economic costs — from medical bills and property damage to lost productivity.
+By addressing root causes, the city can save lives and reduce financial strain on residents and emergency services.
+
+6. Supports Long-Term Vision Zero Goals
+New York City’s Vision Zero initiative aims to eliminate traffic deaths. Understanding contributing factors provides the evidence base needed to measure progress and plan future interventions.
+
 <img width="1253" height="1064" alt="image" src="https://github.com/user-attachments/assets/ea7d24ea-c4c0-4e30-bf3d-7c53f7012971" />
 
 This bar chart highlights the leading causes of vehicle collisions in New York. The most significant contributing factor by far is Driver Inattention or Distraction, accounting for approximately 450,000 crashes — more than double any other cause. This emphasizes how behaviors such as texting, phone use, or general lack of focus are the primary risks on New York’s roads.
@@ -49,4 +83,12 @@ Overall, the data indicate that human error — particularly distraction and poo
 
 <img width="1054" height="1059" alt="image" src="https://github.com/user-attachments/assets/8ac1fce9-e9c5-4ef6-977a-e0ef919f4f2c" />
 
+This graph shows the total number of collisions by the hour of the day. The X-axis represents the 24 hours of the day (from 0 to 23), and the Y-axis shows the "Count of Collision Id" (the number of crashes).
 
+Lowest Point: Crashes are at their lowest between 3:00 AM and 4:00 AM (hours 3-4).
+
+Morning Peak: There is a significant spike in crashes around 8:00 AM (hour 8), which aligns with the morning rush hour.
+
+Evening Peak: The number of crashes is highest during the evening commute, peaking around 4:00 PM (hour 16) and remaining very high from 2:00 PM to 6:00 PM (hours 14-18).
+
+It is true that time is not a factor in crashes the same way that distracted driving is. However, time plays a factor regarding possible grogginess when individuals are first waking up and going to work as well as the exhaustion of the workday and a correllation of increased crashes at that time.
